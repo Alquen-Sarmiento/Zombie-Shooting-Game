@@ -7,6 +7,7 @@
 //"https://orig00.deviantart.net/b81a/f/2014/324/f/d/top_down_zombie_walk_by_mmantas-d872eu2.png"
 //"http://pixelartmaker.com/art/9d5278583d9297d.png"
 
+//Made by Alquen
 
 
 var playerImage = new Image();
