@@ -4,4 +4,6 @@ body{
   background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/403560/eb5b511c833f84c1e6335ccca1a6d587f9593d58.jpg");
   background-size:cover;
   font-family: 'Eater', cursive;
+  height: 100%; 
+  overflow: hidden;
 }
